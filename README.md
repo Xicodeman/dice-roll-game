@@ -1,0 +1,1 @@
+This is a dice-type game of chances. The programming is built in JS, HTML, and CSS. It uses sprites images to represent dices in 2D format. 
